@@ -23,14 +23,14 @@ content:
         color: '#666'
         brightness: 0.7
         media: coders.jpg
-    - title: Lunch & Learn ☕️
-      content: 'Share your knowledge with the group and explore exciting new topics together!'
+    - title: Traffic Stop
+      content: 'We present the design of next-generation user interfaces for public safety organizations developed as the result of an extensive requirement analysis with the participation of public safety partners. The interfaces are proposed to leverage the futuristic capabilities of augmented reality displays of integrating virtual and real elements into simulated situational awareness scenarios in immersive virtual reality. Furthermore, we detail the assessment designs created to evaluate the interface elements proposed and conclude by reporting preliminary results gathered from informal observational studies.'
       align: left
       background:
         position: center
         color: '#555'
         brightness: 0.7
-        media: contact.jpg
+        media: traffic stop.jpg
     - title: World-Class Semiconductor Lab
       content: 'Just opened last month!'
       align: right
