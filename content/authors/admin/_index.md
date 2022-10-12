@@ -25,7 +25,8 @@ education:
       institution: Massachusetts Institute of Technology
       year: 2008
 superuser: false
-user_groups: []
+user_groups:
+  - Members
 highlight_name: false
 title: Gene Pressinger
 email: ""
