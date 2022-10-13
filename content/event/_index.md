@@ -1,5 +1,5 @@
 ---
-title: Recent & Upcoming Events
+title: Current Projects in the Lab
 
 # Listing view
 view: compact
@@ -8,4 +8,7 @@ view: compact
 banner:
   caption: ''
   image: ''
+_build:
+  render: always
+  list: never
 ---

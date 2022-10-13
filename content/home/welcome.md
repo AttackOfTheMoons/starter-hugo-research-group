@@ -6,26 +6,27 @@
 widget: hero # See https://wowchemy.com/docs/page-builder/
 headless: true # This file represents a page section.
 weight: 10 # Order that this section will appear.
-title: |
-  Interactive Realitites Laboratory - IRLAB
-hero_media: welcome.jpg
+title: Interactive Realitites Laboratory - IRLAB
+hero_media: band.jpg
 design:
   # Choose how many columns the section has. Valid values: 1 or 2.
   columns: '1'
   # Add custom styles
-  css_style:
-  css_class:
+  css_style: 
+  css_class: 
 ---
 
 <br>
 
-
-
 The **Interactive Realities Laboratory** (IRLAB) at the University of North Carolina - Greensboro is discovering how to improve virtual and augmented realities, to create the final extended reality experience.
+{style="font-size: 0.945rem;"}
 
 The laboratory is directed by Dr. Regis Kopper in several research projects to boost the usability of extended reality.
+{style="font-size: 0.945rem;"}
 
 This lab works to improve many fields such as public safety, health care, neuroscience, and the humanities.
+{style="font-size: 0.945rem;"}
 
 Using new tangible devices, the lab strives to implement an extended reality experience without the drawbacks that presently exist.
+{style="font-size: 0.945rem;"}
 

@@ -3,10 +3,10 @@
 title: Regis Kopper
 
 # Is this the primary user of the site?
-superuser: true
+superuser: false
 
 # Role/position
-role: Principal Investigator
+role: Lab Director
 
 # Organizations/Affiliations
 organizations:
@@ -48,6 +48,9 @@ social:
   - icon: github
     icon_pack: fab
     link: https://github.com/rkopper
+  - icon: globe
+    icon_pack: fa
+    link: https://www.regiskopper.com
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -63,7 +66,9 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Researchers
+  - Principal Investigators
+
+weight: 10
 ---
 
 Dr. Kopper’s research centers around extended reality (XR) user experience, Virtual Reality (VR) simulation and applied XR research. Specifically, he works on improving the usability of virtual and augmented reality systems by designing novel interaction techniques, mitigating visually induced motion sickness and integrating tangible devices onto XR user interfaces. On virtual reality simulation, Dr. Kopper works on the design, VR prototyping and evaluation of next generation user interfaces for the assessment of technology that is not yet available in the market, particularly in the public safety domain. His research is also transdisciplinary and collaborative, where he investigates the employment of XR interfaces in areas such as health care, neuroscience and the humanities.
