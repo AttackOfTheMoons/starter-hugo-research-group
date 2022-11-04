@@ -56,6 +56,8 @@ highlight_name: false
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
   - Graduate Students
+
+aliases: [ /author/dalton-costa/ ]
 ---
 
 Dalton Costa is currently pursuing a Master of Science in Computer Science while researching virtual reality, global health, and psychological assessment. He works as a research assistant and lab manager at the Interactive Realities Laboratory.
