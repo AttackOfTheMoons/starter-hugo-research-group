@@ -9,6 +9,6 @@ banner:
   caption: ''
   image: ''
 _build:
-  render: always
+  render: never
   list: never
 ---

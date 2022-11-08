@@ -1,0 +1,42 @@
+---
+widget: slider
+weight: 1
+active: false
+headless: true
+
+design:
+  # Slide height is automatic unless you force a specific height (e.g. '400px')
+  slide_height: ''
+  is_fullscreen: true
+  # Automatically transition through slides?
+  loop: false
+  # Duration of transition between slides (in ms)
+  interval: 2000
+
+content:
+  slides:
+    - title: 👋 Welcome to the group
+      content: Take a look at what we're working on...
+      align: center
+      background:
+        position: right
+        color: '#666'
+        brightness: 0.7
+        media: '20221101_114833_Kadir Lofca.jpg'
+    - title: World-Class Semiconductor Lab
+      content: 'Just opened last month!'
+      align: right
+      background:
+        position: center
+        color: '#333'
+        brightness: 0.5
+        media: 
+      link:
+        icon: graduation-cap
+        icon_pack: fas
+        text: Join Us
+        url: ../contact/
+_build:
+  render: always
+  list: never
+---
