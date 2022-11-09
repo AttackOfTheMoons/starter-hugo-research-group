@@ -20,6 +20,7 @@ content:
       - Research Assistant
       - Graduate Students
       - Undergrads
+      - Collaborators
     # - Student Researchers
     # - Principal Investigators
     # - Researchers

@@ -4,7 +4,10 @@
 title: "FirstModulAR: Designing and Integrating Augmented Reality
 User Interface Modules for First Responders"
 summary: "This project aims to identify, based on existing data as well as systematic collaboration with first responders, areas where AR can most benefit public safety and investigate how to solve for challenges through a modular design approach"
-authors: []
+authors: 
+  - Regis Kopper
+  - Jeronimo Grandi
+  - Jason Jerald # (NextGen Interactions) ceo
 tags: []
 categories: []
 date: 2022-11-09T10:10:52-05:00

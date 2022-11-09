@@ -1,40 +1,39 @@
 ---
 # Display name
-title: Jerry Terrell
+title: "Jason Jerald"
+
+# Username (this should match the folder name and the name on publications)
+authors:
+- "jerald"
 
 # Is this the primary user of the site?
 superuser: false
 
-# Role/position
-role: Student Researcher
+# Role/position (e.g., Professor of Artificial Intelligence)
+role: CEO of NextGen Interactions
 
 # Organizations/Affiliations
 organizations:
-  - name: University of North Carolina - Greensboro
-    url: ''
+- name: NextGen Interactions
+  url: "https://www.nextgeninteractions.com/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: Associate in Science. Pursuing BS and MS in Computer Science. Currently working on the Virtual Black Charlotte project.
+bio: 
 
+# List each interest with a dash
 interests:
-  - Virtual Reality
-  - Computer Graphics
-  - Video Game Design
 
-
-education:
-  courses:
-    - course: Associate in Science
-    
+# education:
+#   courses:
 
 # Social/Academic Networking
-# For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
+# For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 social:
-  - icon: envelope
-    icon_pack: fas
-    link: 'mailto:jlterrell@uncg.edu'
+- icon: envelope
+  icon_pack: fas
+  link: mailto:jason@nextgeninteractions.com
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -42,7 +41,7 @@ social:
 #   link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ''
+email: ""
 
 # Highlight the author in author lists? (true/false)
 highlight_name: false
@@ -50,7 +49,5 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Undergrads
+- Collaborators
 ---
-
-Jerry Terrell is pursuing Bachelor and Master of Science in Computer Science. He is currently working on the Virtual Black Charlotte project.

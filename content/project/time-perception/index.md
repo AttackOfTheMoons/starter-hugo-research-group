@@ -6,7 +6,7 @@ summary: ""
 authors: 
   - Kadir Lofca
   - Regis Kopper 
-  # - Jason Jerald
+  - Jason Jerald # (NextGen Interactions)
   # - Jason Haskins
 
 tags: []
