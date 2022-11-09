@@ -3,7 +3,9 @@
 
 title: "Traffic Stop"
 summary: "Simulating Next-Generation User Interfaces For Law Enforcement Trafﬁc Stops"
-authors: [Jeronimo Grandi, Dalton Costa]
+authors: 
+  - Jeronimo Grandi
+  - Dalton Costa
 tags: []
 categories: []
 date: 2022-10-13T16:47:19-04:00
@@ -17,7 +19,7 @@ external_link: ""
 image:
   caption: ""
   focal_point: "Smart"
-  preview_only: false
+  preview_only: true
 
 # Custom links (optional).
 #   Uncomment and edit lines below to show custom links.
@@ -39,4 +41,7 @@ url_video: ""
 #   Otherwise, set `slides = ""`.
 slides: ""
 ---
+
+{{< gallery album="traffic-stop" >}}
+
 We present the design of next-generation user interfaces for public safety organizations developed as the result of an extensive requirement analysis with the participation of public safety partners. The interfaces are proposed to leverage the futuristic capabilities of augmented reality displays of integrating virtual and real elements into simulated situational awareness scenarios in immersive virtual reality. Furthermore, we detail the assessment designs created to evaluate the interface elements proposed and conclude by reporting preliminary results gathered from informal observational studies.

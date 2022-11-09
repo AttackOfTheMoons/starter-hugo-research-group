@@ -1,6 +1,6 @@
 ---
 _build:
-  render: always
+  render: never
   list: never
 title: Traffic Stop
 
@@ -27,7 +27,7 @@ abstract: 'We present the design of next-generation user interfaces for public s
 # Schedule page publish date (NOT talk date).
 # publishDate: ''
 
-authors: [Jeronimo Grandi, Dalton Costa]
+authors: []
 tags: []
 
 # Is this a featured talk? (true/false)
