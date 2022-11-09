@@ -1,11 +1,12 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "Traffic Stop"
+title: "Validation and Demonstration of a Customizable Virtual Reality-Based Traffic Stop Simulation for Training and Practice with the Hillsborough Police Department"
 summary: "Simulating Next-Generation User Interfaces For Law Enforcement Trafﬁc Stops"
 authors: 
   - Jeronimo Grandi
   - Dalton Costa
+  - Regis Kopper
 tags: []
 categories: []
 date: 2022-10-13T16:47:19-04:00
@@ -43,5 +44,7 @@ slides: ""
 ---
 
 {{< gallery album="traffic-stop" >}}
+<br />
+<p style="text-indent: 30px;">The interaction between police officers and drivers is a critical factor that can endanger the officer and requires extensive training. A Virtual Reality (VR) solution can help with training, expose officers to controlled risks, and improve their performance. This is possible because VR features can influence interpersonal interactions and how real the experience is perceived. Therefore, we propose a project to develop and validate a VR tool to simulate traffic stops with a focus on measurable training outcomes. Furthermore, we intend to design and implement a trainer user interface for personalizing the traffic stop simulation and to assess the benefit of next-generation traffic stop technology over current traffic stop technology.</p>
 
-We present the design of next-generation user interfaces for public safety organizations developed as the result of an extensive requirement analysis with the participation of public safety partners. The interfaces are proposed to leverage the futuristic capabilities of augmented reality displays of integrating virtual and real elements into simulated situational awareness scenarios in immersive virtual reality. Furthermore, we detail the assessment designs created to evaluate the interface elements proposed and conclude by reporting preliminary results gathered from informal observational studies.
+{{< video src="IMG_4629.mov" controls="yes" >}}
