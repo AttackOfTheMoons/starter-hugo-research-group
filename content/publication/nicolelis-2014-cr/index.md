@@ -6,10 +6,24 @@ title: 'The Walk Again Project: Using a Brain-Machine Interface for establishing
 subtitle: ''
 summary: ''
 authors:
-- M. A. L. Nicolelis And S. Shokur And A. Lin And R. C. Moioli And F. L. Brasil And
-  N. Peretti And K. Fast And A. Takigami And E. Morya And G. Cheng And L. Sawaki And
-  Regis Kopper And D. Schwarz And S. Gallo And M. Lebedev And S. Joshi And H. Bleuler
-  And A. Rudolph
+- M. A. L. Nicolelis
+- S. Shokur
+- A. Lin
+- R. C. Moioli
+- F. L. Brasil
+- N. Peretti 
+- K. Fast 
+- A. Takigami 
+- E. Morya 
+- G. Cheng 
+- L. Sawaki
+- Regis Kopper
+- D. Schwarz 
+- S. Gallo
+- M. Lebedev 
+- S. Joshi 
+- H. Bleuler
+- A. Rudolph
 tags: []
 categories: []
 date: '2014-01-01'
