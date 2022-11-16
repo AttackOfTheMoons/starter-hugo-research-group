@@ -35,4 +35,5 @@ publication_types:
 - '1'
 abstract: ''
 publication: '*Joint Virtual Reality Conference*'
+share: false
 ---

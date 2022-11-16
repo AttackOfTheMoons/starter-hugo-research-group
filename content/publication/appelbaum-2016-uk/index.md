@@ -36,10 +36,12 @@ image:
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
-projects: []
+projects: 
+  - time-perception
 publishDate: '2022-11-11T22:56:25.189542Z'
 publication_types:
 - '1'
 abstract: ''
 publication: '*Program No. 265.12. 2016 Neuroscience Meeting Planner.*'
+share: false
 ---

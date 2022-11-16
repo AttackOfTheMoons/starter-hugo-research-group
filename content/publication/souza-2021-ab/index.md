@@ -42,4 +42,5 @@ doi: 10.5753/jis.2021.2090
 links:
 - name: URL
   url: https://sol.sbc.org.br/journals/index.php/jis/article/view/2090
+share: false
 ---

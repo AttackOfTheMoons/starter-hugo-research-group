@@ -36,4 +36,5 @@ publication_types:
 abstract: ''
 publication: '*2017 IEEE Virtual Reality (VR)*'
 doi: 10.1109/VR.2017.7892256
+share: false
 ---

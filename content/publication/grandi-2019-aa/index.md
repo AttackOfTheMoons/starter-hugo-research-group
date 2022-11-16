@@ -35,4 +35,5 @@ publication_types:
 - '1'
 abstract: ''
 publication: '*2019 IEEE Conference on Virtual Reality and 3D User Interfaces (VR)*'
+share: false
 ---

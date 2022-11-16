@@ -37,4 +37,5 @@ publication_types:
 - '1'
 abstract: ''
 publication: '*Proceedings of Digital Heritage 2013*'
+share: false
 ---

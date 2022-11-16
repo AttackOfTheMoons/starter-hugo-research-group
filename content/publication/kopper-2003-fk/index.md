@@ -34,4 +34,5 @@ publication_types:
 - '6'
 abstract: ''
 publication: '*SBC - Brazilian Computing Society*'
+share: false
 ---

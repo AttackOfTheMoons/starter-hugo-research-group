@@ -9,6 +9,7 @@ authors:
 tags: []
 categories: []
 date: 2022-11-09T10:09:46-05:00
+show_date: false
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
@@ -40,4 +41,5 @@ url_video: ""
 #   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
 #   Otherwise, set `slides = ""`.
 slides: ""
+share: false
 ---

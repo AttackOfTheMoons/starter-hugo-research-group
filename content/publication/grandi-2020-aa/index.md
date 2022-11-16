@@ -36,4 +36,5 @@ publication_types:
 abstract: ''
 publication: '*2020 IEEE Conference on Virtual Reality and 3D User Interfaces Abstracts
   and Workshops (VRW)*'
+share: false
 ---

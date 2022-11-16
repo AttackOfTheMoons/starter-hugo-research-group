@@ -36,4 +36,5 @@ publication_types:
 - '2'
 abstract: ''
 publication: '*Presence: Teleoperators and Virtual Environments*'
+share: false
 ---

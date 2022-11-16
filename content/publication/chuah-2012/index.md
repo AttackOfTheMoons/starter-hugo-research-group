@@ -39,4 +39,5 @@ publication_types:
 - '1'
 abstract: ''
 publication: '*Virtual Reality (VR), 2012 IEEE*'
+share: false
 ---

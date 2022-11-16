@@ -38,4 +38,5 @@ publication_types:
 - '1'
 abstract: ''
 publication: '*22nd Symposium on Virtual and Augmented Reality (SVR)*'
+share: false
 ---

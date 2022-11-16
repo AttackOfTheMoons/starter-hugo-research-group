@@ -39,4 +39,5 @@ publication_types:
 abstract: ''
 publication: '*Visualization and Computer Graphics, IEEE Transactions on*'
 doi: 10.1109/TVCG.2015.2403312
+share: false
 ---

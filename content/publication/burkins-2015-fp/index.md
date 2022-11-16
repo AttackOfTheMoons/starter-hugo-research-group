@@ -33,4 +33,5 @@ publication_types:
 - '1'
 abstract: ''
 publication: '*IEEE Virtual Reality Conference Posters*'
+share: false
 ---

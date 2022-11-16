@@ -38,4 +38,5 @@ publication_types:
 - '1'
 abstract: ''
 publication: '*3D User Interfaces (3DUI), 2017 IEEE Symposium on*'
+share: false
 ---

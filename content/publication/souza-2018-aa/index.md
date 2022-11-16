@@ -37,4 +37,5 @@ publication_types:
 - '1'
 abstract: ''
 publication: '*2018 20th Symposium on Virtual and Augmented Reality (SVR)*'
+share: false
 ---

@@ -37,4 +37,5 @@ publication_types:
 - '1'
 abstract: ''
 publication: '*2016 IEEE Virtual Reality Posters*'
+share: false
 ---

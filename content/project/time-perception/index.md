@@ -12,6 +12,7 @@ authors:
 tags: []
 categories: []
 date: 2022-11-02T12:58:03-04:00
+show_date: false
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
@@ -48,6 +49,7 @@ url_video: ""
 #   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
 #   Otherwise, set `slides = ""`.
 slides: ""
+share: false
 ---
 {{< gallery album="time-perception" >}}
 

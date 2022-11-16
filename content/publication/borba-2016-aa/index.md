@@ -36,4 +36,5 @@ publication_types:
 - '1'
 abstract: ''
 publication: '*ACM SIGGRAPH 2016 VR Village*'
+share: false
 ---

@@ -42,4 +42,5 @@ publication_types:
 abstract: ''
 publication: '*Translational Vision Science & Technology*'
 doi: 10.1167/tvst.6.1.5
+share: false
 ---

@@ -36,4 +36,5 @@ publication_types:
 - '1'
 abstract: ''
 publication: '*Poster presented at the Human Systems Integration Symposium*'
+share: false
 ---

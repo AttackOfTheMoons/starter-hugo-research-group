@@ -35,4 +35,5 @@ publication_types:
 - '1'
 abstract: ''
 publication: '*3DVis (3DVis), 2014 IEEE VIS International Workshop on*'
+share: false
 ---

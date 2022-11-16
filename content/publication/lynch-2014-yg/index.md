@@ -35,4 +35,5 @@ publication_types:
 - '1'
 abstract: ''
 publication: '*2nd International Workshop on Immersive Volumetric Interaction*'
+share: false
 ---

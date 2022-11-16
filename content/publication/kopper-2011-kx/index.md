@@ -34,4 +34,5 @@ publication_types:
 - '2'
 abstract: ''
 publication: '*Proceedings of the Workshop on Perceptual Illusions in Virtual Environments*'
+share: false
 ---

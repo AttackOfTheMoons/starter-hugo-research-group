@@ -35,4 +35,5 @@ publication_types:
 - '1'
 abstract: ''
 publication: '*5th International Conference on Remote Sensing in Archaeology*'
+share: false
 ---
