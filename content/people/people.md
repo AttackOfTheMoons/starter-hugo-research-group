@@ -9,8 +9,8 @@ headless: true
 # Order that this section appears on the page.
 weight: 68
 
-title: Meet the Team
-subtitle:
+title: Personnel
+subtitle: 
 
 content:
   # Choose which groups/teams of users to display.
@@ -21,13 +21,7 @@ content:
       - Graduate Students
       - Undergrads
       - Collaborators
-    # - Student Researchers
-    # - Principal Investigators
-    # - Researchers
-    # - Grad Students
-    # - Administration
-    # - Visitors
-    # - Alumni
+      - Alumni
 design:
   show_interests: false
   show_role: true

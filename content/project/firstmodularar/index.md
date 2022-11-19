@@ -22,7 +22,7 @@ external_link: ""
 image:
   caption: ""
   focal_point: ""
-  preview_only: false
+  preview_only: true
 
 # Custom links (optional).
 #   Uncomment and edit lines below to show custom links.
@@ -45,7 +45,7 @@ url_video: ""
 slides: ""
 share: false
 ---
-{{% staticref "uploads/Executive Summary.pdf" "newtab" %}}Executive Summary{{% /staticref %}}
+<!-- {{% staticref "uploads/Executive Summary.pdf" "newtab" %}}Executive Summary{{% /staticref %}} -->
 
 As technology advances, the information available for first responders also grows. Presenting every single data point available would lead to an overload of information. Instead, this research will collaborate with public safety officers to build an augmented reality platform to display the most pertinent information. This will increase performance by providing more information to make informed decisions in field operations.
 
