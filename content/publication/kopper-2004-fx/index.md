@@ -36,4 +36,5 @@ publication_types:
 - '1'
 abstract: ''
 publication: '*Proceedings of the Brazilian Symposium on Virtual Reality*'
+share: false
 ---

@@ -1,0 +1,17 @@
+@media only screen and (min-width: 1291px) {
+    .universal-wrapper {
+      width: 1290px;
+    }
+}
+
+.article-container {
+  max-width: 1290px;
+}
+
+.article > .article-container > .article-metadata {
+  font-size: 1rem;
+}
+
+.article > .article-container > .article-metadata::before {
+  content: 'Project Members';
+}

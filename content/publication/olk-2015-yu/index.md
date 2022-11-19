@@ -34,4 +34,5 @@ publication_types:
 - '2'
 abstract: ''
 publication: '*Journal of vision*'
+share: false
 ---

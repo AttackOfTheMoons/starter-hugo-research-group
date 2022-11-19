@@ -47,4 +47,5 @@ publication_types:
 abstract: ''
 publication: '*IEEE Computer Graphics and Applications*'
 doi: http://doi.ieeecomputersociety.org/10.1109/MCG.2010.108
+share: false
 ---

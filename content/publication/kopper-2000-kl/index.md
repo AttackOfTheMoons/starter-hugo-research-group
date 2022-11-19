@@ -36,4 +36,5 @@ publication_types:
 abstract: ''
 publication: '*Proceedings of the XX Brazilian Computer Society Conference/Workshop
   on Informatics in Education*'
+share: false
 ---

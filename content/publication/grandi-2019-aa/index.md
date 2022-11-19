@@ -29,10 +29,12 @@ image:
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
-projects: []
+projects:
+  - nextgenpsafetryui
 publishDate: '2022-11-11T22:56:43.728328Z'
 publication_types:
 - '1'
-abstract: ''
+abstract: 'We detail the initial phase of our project “Design, Prototyping and Evaluation of Next Generation Public Safety User Interfaces,” where we closely gathered the requirements from partner public safety organizations. We present the methodology adopted to make the deployment and adoption of next-generation user interfaces reflect the first responders’ needs, requirements, and contexts of use. We describe the results of interviews and training observations and present the early prototypes designed with the participation of first responders. We will conclude by laying out the next phases of the project.'
 publication: '*2019 IEEE Conference on Virtual Reality and 3D User Interfaces (VR)*'
+share: false
 ---

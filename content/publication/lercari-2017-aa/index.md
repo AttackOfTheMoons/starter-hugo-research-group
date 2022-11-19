@@ -36,4 +36,5 @@ publication_types:
 - '2'
 abstract: ''
 publication: '*Journal of Archaeological Method and Theory*'
+share: false
 ---

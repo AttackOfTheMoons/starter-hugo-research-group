@@ -11,6 +11,7 @@ authors:
 tags: []
 categories: []
 date: 2022-11-09T10:10:52-05:00
+show_date: false
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
@@ -21,7 +22,7 @@ external_link: ""
 image:
   caption: ""
   focal_point: ""
-  preview_only: false
+  preview_only: true
 
 # Custom links (optional).
 #   Uncomment and edit lines below to show custom links.
@@ -42,5 +43,13 @@ url_video: ""
 #   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
 #   Otherwise, set `slides = ""`.
 slides: ""
+share: false
 ---
-{{% staticref "uploads/Executive Summary.pdf" "newtab" %}}Executive Summary{{% /staticref %}}
+<!-- {{% staticref "uploads/Executive Summary.pdf" "newtab" %}}Executive Summary{{% /staticref %}} -->
+
+As technology advances, the information available for first responders also grows. Presenting every single data point available would lead to an overload of information. Instead, this research will collaborate with public safety officers to build an augmented reality platform to display the most pertinent information. This will increase performance by providing more information to make informed decisions in field operations.
+
+
+alt text (made by quillbot ai): 
+<br/>
+FirstModulAR is a public safety Augmented Reality (AR) design project to accelerate the adoption of AR by first responders. Our overall goal is to identify, based on existing data as well as systematic collaboration with first responders, where AR can most benefit public safety.

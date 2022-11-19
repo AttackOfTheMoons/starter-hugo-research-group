@@ -16,7 +16,7 @@ authors:
 - Nicholas D Potter
 - Marc A Sommer
 - Regis Kopper
-- ' others'
+# - ' others'
 tags: []
 categories: []
 date: '2021-01-01'
@@ -43,4 +43,5 @@ publication_types:
 - '2'
 abstract: ''
 publication: '*Journal of Cognitive Neuroscience*'
+share: false
 ---

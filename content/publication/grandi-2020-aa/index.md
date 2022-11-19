@@ -29,11 +29,13 @@ image:
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
-projects: []
+projects:
+  - nextgenpsafetryui
 publishDate: '2022-11-11T22:56:45.717517Z'
 publication_types:
 - '1'
-abstract: ''
+abstract: 'We present the design of a next-generation user interface for law enforcement ofﬁcers, developed to assist with current trafﬁc procedures. Our design leverages the futuristic capabilities of augmented reality displays, integrating real and virtual elements. Our team has created a trafﬁc stop scenario in immersive virtual reality, where the participant assumes the role of a police ofﬁcer and interacts with a simulated augmented user interface and a virtual driver.'
 publication: '*2020 IEEE Conference on Virtual Reality and 3D User Interfaces Abstracts
   and Workshops (VRW)*'
+share: false
 ---

@@ -34,4 +34,5 @@ publication_types:
 - '1'
 abstract: ''
 publication: '*Proceedings of the 2018 Conference on Virtual Reality and 3D User Interfaces*'
+share: false
 ---

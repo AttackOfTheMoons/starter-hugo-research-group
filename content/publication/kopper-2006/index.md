@@ -36,4 +36,5 @@ publication_types:
 abstract: ''
 publication: "*VR '06: Proceedings of the IEEE Virtual Reality Conference (VR 2006)*"
 doi: http://dx.doi.org/10.1109/VR.2006.47
+share: false
 ---

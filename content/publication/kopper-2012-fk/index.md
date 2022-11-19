@@ -36,4 +36,5 @@ publication_types:
 abstract: ''
 publication: "*CHI '12 Workshop on Memento Mori: Technology Design for the End of\
   \ Life*"
+share: false
 ---

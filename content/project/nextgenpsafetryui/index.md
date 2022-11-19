@@ -11,9 +11,12 @@ authors:
 tags: []
 categories: []
 date: 2022-11-09T10:10:31-05:00
+show_date: false
 
 # Optional external URL for project (replaces project detail page).
-external_link: "https://psui.uncg.edu"
+external_link: ""
+
+# links: https://psui.uncg.edu
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
@@ -42,4 +45,10 @@ url_video: ""
 #   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
 #   Otherwise, set `slides = ""`.
 slides: ""
+share: false
 ---
+<div class="btn-links mb-3">
+  <a class="btn btn-outline-primary my-1" href="https://psui.uncg.edu">
+    Go to Project Site
+  </a>
+</div>

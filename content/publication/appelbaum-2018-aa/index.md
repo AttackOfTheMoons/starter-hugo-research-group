@@ -39,4 +39,5 @@ publication_types:
 - '1'
 abstract: ''
 publication: '*Vision Science Society Annual Meeting*'
+share: false
 ---

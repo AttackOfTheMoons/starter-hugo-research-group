@@ -38,4 +38,5 @@ publication_types:
 abstract: ''
 publication: '*Software Engineering and Architectures for Realtime Interactive Systems
   (SEARIS), 2014 IEEE 7th Workshop on*'
+share: false
 ---

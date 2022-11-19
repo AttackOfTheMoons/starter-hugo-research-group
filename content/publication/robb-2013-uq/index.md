@@ -39,4 +39,5 @@ publication_types:
 - '2'
 abstract: ''
 publication: '*Visualization and Computer Graphics, IEEE Transactions on*'
+share: false
 ---

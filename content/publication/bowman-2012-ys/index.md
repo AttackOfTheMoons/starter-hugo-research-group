@@ -40,4 +40,5 @@ publication_types:
 abstract: ''
 publication: '*The Interservice/Industry Training, Simulation & Education Conference
   (I/ITSEC)*'
+share: false
 ---

@@ -35,4 +35,5 @@ publication_types:
 abstract: ''
 publication: '*3D User Interfaces (3DUI), 2011 IEEE Symposium on*'
 doi: 10.1109/3DUI.2011.5759219
+share: false
 ---

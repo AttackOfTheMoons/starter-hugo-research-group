@@ -43,4 +43,5 @@ publication: '*Advances in Usability, User Experience, Wearable and Assistive Te
   Proceedings of the AHFE 2021 Virtual Conferences on Usability and User Experience,
   Human Factors and Wearable Technologies, Human Factors in Virtual Environments and
   Game Design, and Human Factors and Assistive Technology, July 25--29, 2021, USA*'
+share: false
 ---

@@ -36,4 +36,5 @@ publication_types:
 - '1'
 abstract: ''
 publication: '*Virtual Reality Software and Technology, 2013 ACM Symposium on*'
+share: false
 ---
