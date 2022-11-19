@@ -16,7 +16,7 @@ authors:
 - Nicholas D Potter
 - Marc A Sommer
 - Regis Kopper
-- ' others'
+# - ' others'
 tags: []
 categories: []
 date: '2021-01-01'
