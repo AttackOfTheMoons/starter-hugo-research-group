@@ -2,6 +2,8 @@
 # Display name
 title: Noah Brown
 
+alt: Noah J. Brown
+
 # Is this the primary user of the site?
 superuser: false
 

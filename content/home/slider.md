@@ -54,4 +54,17 @@ content:
         icon_pack: fas
         text: View Project
         url: ../project/time-perception/
+    - title: EDA Device Comparison
+      content: 'Project Comparing the EmpticaE4 and the Emotibit'
+      align: right
+      background:
+        position: center
+        color: '#333'
+        brightness: 0.5
+        media: /albums/eda-device/Setupback_Carlos Ruizvalencia.jpg
+      link:
+        icon: arrow-up-right-from-square
+        icon_pack: fas
+        text: View Project
+        url: ../project/eda-device/
 ---
