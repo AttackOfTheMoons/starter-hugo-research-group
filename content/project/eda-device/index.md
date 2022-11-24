@@ -4,7 +4,9 @@
 title: "EDA Device Comparison"
 summary: ""
 authors:
-  - Noah Brown
+  - Regis Kopper
+  - Somya Mohanty
+  - Noah J. Brown
   - Carlos Ruiz
 tags: []
 categories: []
@@ -20,7 +22,7 @@ external_link: ""
 image:
   caption: ""
   focal_point: ""
-  preview_only: false
+  preview_only: true
 
 # Custom links (optional).
 #   Uncomment and edit lines below to show custom links.
@@ -43,3 +45,6 @@ url_video: ""
 slides: ""
 share: false
 ---
+{{< gallery album="eda-device" >}}
+
+Electrodermal responses (EDA) have been shown to provide insight on the emotional state of a person. Two devices that measure the electrical characteristics of the skin that allows us to monitor this activity are the EmpticaE4 and the Emotibit, The Empatica E4 has long since been a well established and respected device that has been used on multiple studies. On the other hand, the Emotibit is a relative newcomer that promises to do everything that the E4 wants, but at a much cheaper cost. This study aims to prove or disprove this establishing whether they are comparable or not. If the study is able to prove that these devices are equivalent, it would benefit other researchers greatly by lowering the cost barrier of entry.
